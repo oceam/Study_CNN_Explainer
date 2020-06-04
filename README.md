@@ -22,6 +22,6 @@ we modified the training data and model for students with agriculture background
 ### Masanori Ishii, 
 東京大学国際フィールドフェノミクス研究拠点  
 International Field Phenomics Research Laboratory, The University of Tokyo, Tokyo, Japan  
-Wei GUO (Oceam), 
+Wei GUO (Oceam),  
 東京大学国際フィールドフェノミクス研究拠点  
 International Field Phenomics Research Laboratory, The University of Tokyo, Tokyo, Japan
