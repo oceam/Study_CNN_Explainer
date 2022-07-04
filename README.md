@@ -1,4 +1,6 @@
-# Study_CNN_Explainer
+
+# Study_CNN_Explainer  
+https://lab.fieldphenomics.com/Study_CNN_Explainer/  
 original version from : https://github.com/poloclub/cnn-explainer
 
 we modified the training data and model for students with agriculture background.
